@@ -1,0 +1,22 @@
+From 0578c5b663f5af46c7eb2962275c64306ae40a6a Mon Sep 17 00:00:00 2001
+From: kmecpp <kmecpp@gmail.com>
+Date: Fri, 1 Jul 2022 14:49:50 -0400
+Subject: [PATCH] Updated log4j2
+
+
+diff --git a/log4j/pom.xml b/log4j/pom.xml
+index 9fe7044f..0cfd712d 100644
+--- a/log4j/pom.xml
++++ b/log4j/pom.xml
+@@ -18,7 +18,7 @@
+     <description>Simplistic and performant Log4j2 based logger and console API designed for use with Travertine and Minecraft related applications.</description>
+ 
+     <properties>
+-        <log4j2.version>2.14.0</log4j2.version>
++        <log4j2.version>2.17.2</log4j2.version>
+     </properties>
+ 
+     <dependencies>
+-- 
+2.36.1.windows.1
+
